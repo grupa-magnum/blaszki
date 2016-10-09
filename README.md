@@ -1,0 +1,2 @@
+# blaszki
+produkcja blaszek
